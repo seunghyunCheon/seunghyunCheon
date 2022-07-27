@@ -13,6 +13,9 @@
   
 <p align=center> 👨‍💻 I'm focus on producing results, try to refactoring</p>
 
+<p align=center>
+<a href="https://pololove.tistory.com/"><img src="https://img.shields.io/badge/tistory-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
+</p>
 <!--
 **seunghyunCheon/seunghyunCheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
