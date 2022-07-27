@@ -20,7 +20,7 @@
 <br>
 
 
-<div align=center><h3>✨ Langugae </h3> ✨</div>
+<div align=center><h3>✨ Langugae ✨</h3> </div>
 
 <p align=center>
 <img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
