@@ -16,6 +16,32 @@
 <p align=center>
 <a href="https://pololove.tistory.com/"><img src="https://img.shields.io/badge/tistory-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 </p>
+<br>
+<br>
+
+
+<div align=center><h3>✨ Langugae </h3> ✨</div>
+
+<p align=center>
+<a href="https://pololove.tistory.com/"><img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
+<a href="https://pololove.tistory.com/"><img src="https://img.shields.io/badge/Uikit-2396F3?style=flat-square&logo=Uikit&logoColor=white"/></a>
+<a href="https://pololove.tistory.com/"><img src="https://img.shields.io/badge/Java-239632?style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="https://pololove.tistory.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<a href="https://pololove.tistory.com/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+<a href="https://pololove.tistory.com/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+</p>
+<br>
+
+<div align=center><h3>  ✨ Cowork Tool ✨</h3></div>
+<p align=center>
+<a href="https://pololove.tistory.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
+<a href="https://pololove.tistory.com/"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
+<a href="https://pololove.tistory.com/"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+<a href="https://pololove.tistory.com/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+</p>
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghyunCheon)](https://github.com/seunghyunCheon/github-readme-stats)
+
 <!--
 **seunghyunCheon/seunghyunCheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
