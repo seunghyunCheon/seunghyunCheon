@@ -3,7 +3,7 @@
 
 
 
-<div align=center><h3> 👋 Hi I'm Brody. ios Developer</h3></div>
+<div align=center><h3> 👋 Hi I'm Seunghyun ios Developer</h3></div>
 <br>
 <p align=center> 📱 I like developing ios</div><p>  
 
