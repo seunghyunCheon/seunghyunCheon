@@ -40,9 +40,10 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </p>
 <br>
-![seunghyuncheon's github stats](https://github-readme-stats.vercel.app/api?username=seunghyuncheon&show_icons=true&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghyunCheon&show_icons=true&theme=radical)
-<!--
+<p align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=seunghyuncheon&show_icons=true&theme=tokyonight"/>
+</p>
+  <!--
 **seunghyunCheon/seunghyunCheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
