@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </p>
 <br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seunghyuncheon&show_icons=true&theme=tokyonight)
+![seunghyuncheon's github stats](https://github-readme-stats.vercel.app/api?username=seunghyuncheon&show_icons=true&theme=tokyonight)
 
 <!--
 **seunghyunCheon/seunghyunCheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
