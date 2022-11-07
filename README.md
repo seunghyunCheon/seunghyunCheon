@@ -5,7 +5,7 @@
 
 <div align=center><h3> 👋 Hello I'm Seunghyun. ios Developer</h3></div>
 <br>
-<p align=center> 📱 I am very interested in all front-end development areas.</div><p>  
+<p align=center> ✨ I am very interested in all front-end development areas.</div><p>  
 
 <p align=center> 📱 I like the development of iOS and HIG design.</div><p>  
 
