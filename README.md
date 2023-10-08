@@ -3,17 +3,17 @@
 
 
 
-<div align=center><h3> 👋 Hello I'm Seunghyun. iOS Developer</h3></div>
+<div align=center><h3> 👋 Hello I'm Seunghyun. SoftWare engineer</h3></div>
 <br>
 <div align=center><h3>✨ Langugae ✨</h3> </div>
 
 <p align=center>
 <img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Uikit-2396F3?style=flat-square&logo=Uikit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-239632?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-239632?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </p>
 <br>
 
