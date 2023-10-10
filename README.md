@@ -28,6 +28,10 @@
 <p align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=seunghyuncheon&show_icons=true&theme=tokyonight"/>
 </p>
+
+<br/>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=csh7213)](https://solved.ac/csh7213)
   <!--
 **seunghyunCheon/seunghyunCheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
