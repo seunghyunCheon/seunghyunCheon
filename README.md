@@ -25,14 +25,8 @@
 </p>
 <br>
 
-<p align=center>
-  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=csh7213)](https://solved.ac/csh7213)
-</p>
-
 <img src="https://github-readme-stats.vercel.app/api?username=seunghyuncheon&show_icons=true&theme=tokyonight"/>
-</p>
+
 
 
 
